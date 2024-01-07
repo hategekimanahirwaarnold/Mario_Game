@@ -4,6 +4,7 @@ This is a game where a player have to skip pitfalls to win.
 
 ## Getting Started
 To those who have cloned this repository and new to programming,
+here are some few steps to get started:
 
 1.  Clone the repo:
 
